@@ -1,7 +1,7 @@
 # Project-Eight
 For school
       
-────────────────────────────────────────────────────────
+───────────────────────────────────────────
 
 # The Gaming Room Software Design Document
 
@@ -23,4 +23,4 @@ I interpreted the user’s needs by prioritizing cross-platform functionality an
 ## Future Design Strategies
 In future projects, I would continue to leverage modular design and robust documentation practices. Techniques like prototyping and iterative design will remain central to my approach, ensuring that the software evolves with user feedback and technological advancements.
 
-────────────────────────────────────────────────────────
+───────────────────────────────────────────
